@@ -1,9 +1,6 @@
-# COURSE: Introductory to Case Study
+
 # PROJECT TITLE: Descriptive Analysis of Demographic Data (Project 1)
-# DATE CREATED: 18 October 2021 # To be submitted by 12 November 2021 #
-# InSTRUCTOR: Pof.Dr. Sonja Kuhnt, Dr.Paul Wiemann, Dr.Birte Hellwig, M.sc. Hendrik Dohme
-# SCRIPT OWNER: Opeyemi Ayanwale (236783)
-# PROJECT GROUP: Group 7
+# DATE CREATED: 18 October 2021 #
 # Last changes:20/10/2021
 
 #############################

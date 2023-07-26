@@ -1,4 +1,3 @@
-# Portfolio
 
 # [Project 1: Descriptive Analysis of Demographic Data](https://github.com/OpeyemiAyanwale/Descriptive-Analysis-of-Demographic-Data)
 
